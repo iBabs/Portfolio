@@ -10,7 +10,11 @@ export default function Home() {
       height={250}
       className="mx-auto"
       />
-      <h1 className="md:text-4xl text-center">Run test</h1>
+      <p
+      className="text-9xl font-family-jim text-wrap"
+      >
+        Let&apos;s bring your ideas to life with iBabs! This is a test page to check the functionality of the application.
+      </p>
     </div>
   );
 }

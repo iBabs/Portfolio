@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import "tailwindcss";
 
 :root {
@@ -23,7 +25,12 @@
   --color-primary: #04aed9;
   --color-secondary: #00ff00;
   --color-tertiary: #0000ff;
+  --font-family-nato: 'Noto Sans', sans-serif;
+  --font-family-montserrat: 'Montserrat', serif;
+  --font-family-jim: 'Jim Nightshade', monospace;
 }
+
+
 .test{
   --color-dark-bdy: #1f242b;
   --color-dark-fg: #ffffff;
